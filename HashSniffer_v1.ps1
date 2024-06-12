@@ -16,4 +16,4 @@ function Get-HashRecursively {
     }
 }
 
-Get-HashRecursively -Path "G:\Projects"
+Get-HashRecursively -Path "C:\Users\RipTide\Downloads\Install Termius"
